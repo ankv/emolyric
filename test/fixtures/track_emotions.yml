@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title_name: MyString
+  artist_name: MyString
+  joy: MyString
+  sad: MyString
+  angry: MyString
+  relax: MyString
+  actual_mood: MyString
+
+two:
+  title_name: MyString
+  artist_name: MyString
+  joy: MyString
+  sad: MyString
+  angry: MyString
+  relax: MyString
+  actual_mood: MyString
